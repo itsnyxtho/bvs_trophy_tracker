@@ -4,29 +4,38 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
   <title>BVS Trophy Tracker</title>
-  <link rel="stylesheet" href="./style.css" />
-  <script src="./trophies.js"></script>
+  <link rel="stylesheet" href="./styles/style.css" />
+  <script src="./database/trophies.js"></script>
 </head>
 
 <body>
-  <div style="display: inline-block; margin-right: 10px;">
-    <h1 style="margin: 0;">BVS Trophy Tracker</h1>
-  </div>
-  <div style="display: inline-block; font-size: 14px;">
-    <b> By <a href="http://www.animecubedgaming.com/billy/?199113">itsnyxtho</a></b>
-  </div>
-  <div style="font-size: 14px;"><i>Track your trophy progress!</i></div>
-  <div id="counter-container">
-    <div class="progress-wrapper" title="Trophies Owned Progress">
-      <div class="progress-bar" id="trophyProgressBar"></div>
+  <div class="header-container">
+    <div class="header-content">
+      <div style="display: inline-block; margin-right: 10px;">
+        <h1 style="margin: 0;">BVS Trophy Tracker</h1>
+      </div>
+      <div style="display: inline-block; font-size: 14px;">
+        <b> By <a href="http://www.animecubedgaming.com/billy/?199113">itsnyxtho</a></b>
+      </div>
+      <div style="font-size: 14px;"><i>Track your trophy progress!</i></div>
+      <div id="counter-container">
+        <div class="progress-wrapper" title="Trophies Owned Progress">
+          <div class="progress-bar" id="trophyProgressBar"></div>
+        </div>
+        <div id="pointsLabel" class="progress-label"></div>
+        <button id="resetButton" class="reset-button" onclick="resetProgress()">Reset</button>
+        <button id="selectAllButton" class="select-all-button" onclick="selectAllTrophies()">Select All</button>
+      </div>
     </div>
-    <div id="pointsLabel" class="progress-label"></div>
-    <button id="resetButton" class="reset-button" onclick="resetProgress()">Reset</button>
-    <button id="selectAllButton" class="select-all-button" onclick="selectAllTrophies()">Select All</button>
+    <div class="import-export-container">
+      <div id="drop-area" class="drag-and-drop-container">Drag & drop a JSON file here</div>
+      <button id="exportButton" class="export-button" onclick="exportTrophies()">Download Export JSON</button>
+    </div>
   </div>
   <ul id="trophyList"></ul>
-  <script src="./script.js"></script>
+  <script src="./scripts/script.js"></script>
 </body>
 
 </html>

@@ -5,7 +5,7 @@ const trophies = [
     howToGet: "Receive The Mark of the RNG",
     points: -10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -14,7 +14,7 @@ const trophies = [
     howToGet: "Have 10+ 1-Point Trophies on the Trophy Page",
     points: 1,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -23,7 +23,7 @@ const trophies = [
     howToGet: "Get a Yakuman in Mahjong without cheating",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -32,7 +32,7 @@ const trophies = [
     howToGet: "Recover from negative HP via Veggies",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -41,7 +41,7 @@ const trophies = [
     howToGet: "Take 1 Ally into the Tunnel",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -50,7 +50,7 @@ const trophies = [
     howToGet: "Get the Max Score in a Tsukiball game",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -59,7 +59,7 @@ const trophies = [
     howToGet: "Showdown with High Card and have the opponent fold",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -68,7 +68,7 @@ const trophies = [
     howToGet: "Get a Triple Bullseye with a regular Kunai",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -77,7 +77,7 @@ const trophies = [
     howToGet: "Spin the wheel with both Billy and The Rack",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -86,7 +86,7 @@ const trophies = [
     howToGet: "Hang out with Bugman Lvl. 2 via MPB",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -95,7 +95,7 @@ const trophies = [
     howToGet: "Defeat a Titan with 10 or less HP remaining",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -104,7 +104,7 @@ const trophies = [
     howToGet: "Visit the Trophy Room with both Maximum Naughtinessand Niceness awards at once",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -113,7 +113,7 @@ const trophies = [
     howToGet: "Use a Daily Fail coupon to buy 1 Kunai and get 1 free",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -122,7 +122,7 @@ const trophies = [
     howToGet: "Have 20+ 1-Point Trophies on the Trophy Page",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -131,7 +131,7 @@ const trophies = [
     howToGet: "Have 30+ 1-Point Trophies on the Trophy Page",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -140,7 +140,7 @@ const trophies = [
     howToGet: "Have 50+ 1-Point Trophies on the Trophy Page",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -149,7 +149,7 @@ const trophies = [
     howToGet: "Take the deal with SNAKEMAN in your bucket",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -158,7 +158,7 @@ const trophies = [
     howToGet: "Win 500,000 Ryo in a game of SNAKEMAN or No SNAKEMAN",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -167,7 +167,7 @@ const trophies = [
     howToGet: "Drink Diet Soda with 0 Greass",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -176,7 +176,7 @@ const trophies = [
     howToGet: "Win an Arena Fight during the Dark Hour",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -185,7 +185,7 @@ const trophies = [
     howToGet: "Defeat 100 zombjas in one map without an equipped weapon",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -194,7 +194,7 @@ const trophies = [
     howToGet: "Start a Con with 11 Complete Cosplay Costumes",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -203,7 +203,7 @@ const trophies = [
     howToGet: "Get 11 Pets",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -212,7 +212,7 @@ const trophies = [
     howToGet: "Achieve the maximum Season (Season 111)",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -221,7 +221,7 @@ const trophies = [
     howToGet: "Checkout 6+ customers at once",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -230,7 +230,7 @@ const trophies = [
     howToGet: "Rage out with 1 Time remaining",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -239,7 +239,7 @@ const trophies = [
     howToGet: "Get First place in First Loser",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -248,7 +248,7 @@ const trophies = [
     howToGet: "Discard an entire Royal Flush at once",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -257,7 +257,7 @@ const trophies = [
     howToGet: "Go in the Tunnel alone",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -266,7 +266,7 @@ const trophies = [
     howToGet: "Vacation Thursday, Friday, Saturday, and Sunday",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -275,7 +275,7 @@ const trophies = [
     howToGet: "Get 50+ points in one Flower Wars hand",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -284,7 +284,7 @@ const trophies = [
     howToGet: "Finish a Crazy Hard ride within 60 seconds",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -293,7 +293,7 @@ const trophies = [
     howToGet: "Have A A Ron check out your last customer",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -302,7 +302,7 @@ const trophies = [
     howToGet: "Do 11 S-Rank Missions in one day",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -311,7 +311,7 @@ const trophies = [
     howToGet: "Turn in 1 S-Rank Emblem successfully",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -320,7 +320,7 @@ const trophies = [
     howToGet: "Summon 11 summons in a day",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -329,7 +329,7 @@ const trophies = [
     howToGet: "Change your Team to the same Team you just had",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -338,7 +338,7 @@ const trophies = [
     howToGet: "Change to all four Reaper States in one day",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -347,7 +347,7 @@ const trophies = [
     howToGet: "Sell a Village Contract",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -356,7 +356,7 @@ const trophies = [
     howToGet: "Defeat 2 Phases in one day",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -365,7 +365,7 @@ const trophies = [
     howToGet: "Sharing Delicious Cake with the village",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -374,7 +374,7 @@ const trophies = [
     howToGet: "Start a Con with 111 Complete Cosplay Costumes",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -383,7 +383,7 @@ const trophies = [
     howToGet: "Bust out a Mahjong opponent with a Baiman",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -392,7 +392,7 @@ const trophies = [
     howToGet: "+111+ Successes on a Crank 11 S-Rank Mission",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -401,7 +401,7 @@ const trophies = [
     howToGet: "Achieve over 11,000 Stamina from consumables",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -410,7 +410,7 @@ const trophies = [
     howToGet: "Get 6+ Pachinko Comps in one turn-in",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -419,7 +419,7 @@ const trophies = [
     howToGet: "Throw a Lucha Fight",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -428,7 +428,7 @@ const trophies = [
     howToGet: "Load the truck without injury",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -437,7 +437,7 @@ const trophies = [
     howToGet: "Beat an S-Rank Mission with Lvl 3. Billy, Pinky, and Stalkergirl",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -446,7 +446,7 @@ const trophies = [
     howToGet: "Turn in 111+ contracts at once",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -455,7 +455,7 @@ const trophies = [
     howToGet: "45+ Lvl. 2 or greater Allies on the Team Page",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -464,7 +464,7 @@ const trophies = [
     howToGet: "Win 111 arena matches in a day",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -473,7 +473,7 @@ const trophies = [
     howToGet: "Drink 12 or more different Juice Types at once",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -482,7 +482,7 @@ const trophies = [
     howToGet: "Visit your Team Page while hanging out with 11+ Allies",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -491,7 +491,7 @@ const trophies = [
     howToGet: "Trapdoor your future self",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -500,7 +500,7 @@ const trophies = [
     howToGet: "Get 11,000+ in the Rave",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -509,7 +509,7 @@ const trophies = [
     howToGet: "Visit your special Field",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -518,7 +518,7 @@ const trophies = [
     howToGet: "Attempt to Walk Together with yourself",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -527,7 +527,7 @@ const trophies = [
     howToGet: "Visit the Party House with over 11,000,000 Ranking XP",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -536,7 +536,7 @@ const trophies = [
     howToGet: "Kick the Crane Machine with your last 2 Stamina",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -545,7 +545,7 @@ const trophies = [
     howToGet: "SuperFail on Attempt 2",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -554,7 +554,7 @@ const trophies = [
     howToGet: "Have a bet on all possible spins in Roulette",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -563,7 +563,7 @@ const trophies = [
     howToGet: "Say 'Trophy' in Hidden Forbidden Holy Ground",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -572,7 +572,7 @@ const trophies = [
     howToGet: "Escape the Squee during a four hour hunt",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -581,7 +581,7 @@ const trophies = [
     howToGet: "Successfully create an Ultimate Pizza",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -590,7 +590,7 @@ const trophies = [
     howToGet: "Have a Clean store when a Tsk goes to Tsk in Retail",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -599,7 +599,7 @@ const trophies = [
     howToGet: "Vacation with 14+ days",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -608,7 +608,7 @@ const trophies = [
     howToGet: "Have 99+ Allies on the Team page",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -617,7 +617,7 @@ const trophies = [
     howToGet: "Eat 4 different Greassy Items in a row",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -626,7 +626,7 @@ const trophies = [
     howToGet: "Attack with an 11Saber",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -635,7 +635,7 @@ const trophies = [
     howToGet: "Clear all customers with +200 Rage",
     points: 1,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -644,7 +644,7 @@ const trophies = [
     howToGet: "Get the Season One Collection",
     points: 5,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -653,7 +653,7 @@ const trophies = [
     howToGet: "Get the Season Two Collection",
     points: 5,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -662,7 +662,7 @@ const trophies = [
     howToGet: "Get the Season Three Collection",
     points: 5,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -671,7 +671,7 @@ const trophies = [
     howToGet: "Get the Season Four Collection",
     points: 5,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -680,7 +680,7 @@ const trophies = [
     howToGet: "Get the Season Five Collection",
     points: 5,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -689,7 +689,7 @@ const trophies = [
     howToGet: "Get the first row of HelperCats",
     points: 5,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -698,7 +698,7 @@ const trophies = [
     howToGet: "Get the second row of HelperCats",
     points: 5,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -707,7 +707,7 @@ const trophies = [
     howToGet: "Bingo 5 Leaders in one day",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -716,7 +716,7 @@ const trophies = [
     howToGet: "Become Sannin",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -725,7 +725,7 @@ const trophies = [
     howToGet: "Win in Mahjong with at least one other player in the negatives without cheating",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -734,7 +734,7 @@ const trophies = [
     howToGet: "Get the Drunken Fist Theme",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -743,7 +743,7 @@ const trophies = [
     howToGet: "Wear all three parts of a single character's Cosplay",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -752,7 +752,7 @@ const trophies = [
     howToGet: "Won an FKF Qualifier FIGHTO Tournament",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -761,7 +761,7 @@ const trophies = [
     howToGet: "Get The Road to Womanhood Theme",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -770,7 +770,7 @@ const trophies = [
     howToGet: "Receive a score of 10 on the Chunin Exam",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -779,7 +779,7 @@ const trophies = [
     howToGet: "Visit Hidden-Forbidden-Holy Ground",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -788,7 +788,7 @@ const trophies = [
     howToGet: "Complete Season 1",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -797,7 +797,7 @@ const trophies = [
     howToGet: "+1000 Minion defeats as Kaiju",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -806,7 +806,7 @@ const trophies = [
     howToGet: "Obtain the Knightmare Frame",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -815,7 +815,7 @@ const trophies = [
     howToGet: "Complete Season 2",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -824,7 +824,7 @@ const trophies = [
     howToGet: "Receive The Mark of Eleventy Billion",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -833,7 +833,7 @@ const trophies = [
     howToGet: "Loop after winning a Monster Drop from a Defeated Kaiju",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -842,7 +842,7 @@ const trophies = [
     howToGet: "Obtain the Letter of Marque",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -851,7 +851,7 @@ const trophies = [
     howToGet: "Obtain 'Up All Night' Effect twice in a single BillyCon",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -860,7 +860,7 @@ const trophies = [
     howToGet: "+1000 Minion defeats as Ninja",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -869,7 +869,7 @@ const trophies = [
     howToGet: "Got a Trophy for Loading the Truck (how meta)",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -878,7 +878,7 @@ const trophies = [
     howToGet: "Get True Blood of the Reaper",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -887,7 +887,7 @@ const trophies = [
     howToGet: "Loop with the Necklace of the First HoCage, Stealth Suit, Codec, K-Dog's Headband, and Love Love Paradise",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -896,7 +896,7 @@ const trophies = [
     howToGet: "Autowin a Mission Lady Scuffle",
     points: 5,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -905,7 +905,7 @@ const trophies = [
     howToGet: "Complete RG Day One",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -914,7 +914,7 @@ const trophies = [
     howToGet: "Get the Red Skull Pin",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -923,7 +923,7 @@ const trophies = [
     howToGet: "Beat Difficulty 11 in Infinite Retail",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -932,7 +932,7 @@ const trophies = [
     howToGet: "Win all roles in BillyTV once",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -941,7 +941,7 @@ const trophies = [
     howToGet: "Get a top 3 of the week wage performance in a Black Friday shift",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -950,7 +950,7 @@ const trophies = [
     howToGet: "Eat Fresh Fruit with 50+ Cool",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -959,7 +959,7 @@ const trophies = [
     howToGet: "Defeat a Mission at Maximum Crank",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -968,7 +968,7 @@ const trophies = [
     howToGet: "Complete the first Snooty Gallery Artwork",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -977,7 +977,7 @@ const trophies = [
     howToGet: "Put an Over 11000 or a Sho Nuff Elixir into the Hidden HoClaus gift pile",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -986,7 +986,7 @@ const trophies = [
     howToGet: "Save Mimi",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -995,7 +995,7 @@ const trophies = [
     howToGet: "Have 11 different tattoo touchup additions at once",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1004,7 +1004,7 @@ const trophies = [
     howToGet: "Get the Whale to checkout in Retail",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1013,7 +1013,7 @@ const trophies = [
     howToGet: "Complete Captain's Log",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1022,7 +1022,7 @@ const trophies = [
     howToGet: "Get 11 treats, a mask and a party invite in Candyween",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1031,7 +1031,7 @@ const trophies = [
     howToGet: "Complete Life Finds A Way",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1040,7 +1040,7 @@ const trophies = [
     howToGet: "Eat Ninja Cat Barf",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1049,7 +1049,7 @@ const trophies = [
     howToGet: "Defeat a WotAdventure with Difficulty 1 or greater",
     points: 10,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1058,7 +1058,7 @@ const trophies = [
     howToGet: "Defeated King Omaha",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1067,7 +1067,7 @@ const trophies = [
     howToGet: "Get an Item from Proof Reader in a Quest",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1076,7 +1076,7 @@ const trophies = [
     howToGet: "Have all BillyTV Autographs at 100% or more",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1085,7 +1085,7 @@ const trophies = [
     howToGet: "Made it successfully into (and out of) the BillyMaze",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1094,7 +1094,7 @@ const trophies = [
     howToGet: "Collect the first set of Truckload Trading Figures",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1103,7 +1103,7 @@ const trophies = [
     howToGet: "Collect the second set of Truckload Trading Figures",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1112,7 +1112,7 @@ const trophies = [
     howToGet: "Loop with Level 50 or greater in Tsukiball",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1121,7 +1121,7 @@ const trophies = [
     howToGet: "Summon and Defeat a WorldKaiju",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1130,7 +1130,7 @@ const trophies = [
     howToGet: "Hold the High Score in SUPERFAIL for 15 Minutes, or get in the Share 11+ times",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1139,7 +1139,7 @@ const trophies = [
     howToGet: "Get a Level 5 Mission Lady Goods",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1148,7 +1148,7 @@ const trophies = [
     howToGet: "Received Z-Rewards",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1157,7 +1157,7 @@ const trophies = [
     howToGet: "Win a Mahjong Hand with a Head Bump",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1166,7 +1166,7 @@ const trophies = [
     howToGet: "Achieved Level 5 in at least one Z-Skill",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1175,7 +1175,7 @@ const trophies = [
     howToGet: "Defeated the Titan of the Dark Shift",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1184,7 +1184,7 @@ const trophies = [
     howToGet: "Bet a Monster Drop on 11 in Roulette - and win",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1193,7 +1193,7 @@ const trophies = [
     howToGet: "Obtain the Special Attack Uniform",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1202,7 +1202,7 @@ const trophies = [
     howToGet: "Complete a Lunatic Drive",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1211,7 +1211,7 @@ const trophies = [
     howToGet: "Obtain The Tote",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1220,7 +1220,7 @@ const trophies = [
     howToGet: "Loop with at least 1 Million Ryo",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1229,7 +1229,7 @@ const trophies = [
     howToGet: "Obtain R00t Rank",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1238,7 +1238,7 @@ const trophies = [
     howToGet: "Win the BillyCon Rave",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1247,7 +1247,7 @@ const trophies = [
     howToGet: "Loop with Boots of Walking, Cowl of the Second HoCage, Dustcloak of Sneaking, Pistol of Repeating, Solid Shades, and Scythe of Razing",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1256,7 +1256,7 @@ const trophies = [
     howToGet: "Obtain Shadow Warrior",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1265,7 +1265,7 @@ const trophies = [
     howToGet: "Complete Season 4",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1274,7 +1274,7 @@ const trophies = [
     howToGet: "Obtain the Lucky Sevens theme",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1283,7 +1283,7 @@ const trophies = [
     howToGet: "Obtain the Ninpo Mask via Storm Favor",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1292,7 +1292,7 @@ const trophies = [
     howToGet: "Get Five Bright in Flower Wars",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1301,7 +1301,7 @@ const trophies = [
     howToGet: "Loop with the Warrior of Wisdom, Warrior of Courage, and Warrior of Power",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1310,7 +1310,7 @@ const trophies = [
     howToGet: "Help another player get Ultimate Survivor",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1319,7 +1319,7 @@ const trophies = [
     howToGet: "Get the Consolation Prize in The First Loser",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1328,7 +1328,7 @@ const trophies = [
     howToGet: "Defeat a Titan",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1337,7 +1337,7 @@ const trophies = [
     howToGet: "Loop after Winning the Big Board",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1346,7 +1346,7 @@ const trophies = [
     howToGet: "Shovel snow with a Megaplow",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1355,7 +1355,7 @@ const trophies = [
     howToGet: "Rescue the White Witch",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1364,7 +1364,7 @@ const trophies = [
     howToGet: "Obtain the Themes You Spin Me Right 'Round, You See Right Through Me, The Flash",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1373,7 +1373,7 @@ const trophies = [
     howToGet: "Land a Role on BillyTV",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1382,7 +1382,7 @@ const trophies = [
     howToGet: "Achieve Level 100 with a Pet",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1391,7 +1391,7 @@ const trophies = [
     howToGet: "Defeat a WotAdventure",
     points: 10,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1400,7 +1400,7 @@ const trophies = [
     howToGet: "Drink Syntherum",
     points: 11,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1409,7 +1409,7 @@ const trophies = [
     howToGet: "Received the 28 Dayrolls Later Theme",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1418,7 +1418,7 @@ const trophies = [
     howToGet: "Win the BillyCon Cosplay",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1427,7 +1427,7 @@ const trophies = [
     howToGet: "Complete Season 9",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1436,7 +1436,7 @@ const trophies = [
     howToGet: "Bingo 30 People in one day",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1445,7 +1445,7 @@ const trophies = [
     howToGet: "Loop with the Mysterious Power Bloodline",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1454,7 +1454,7 @@ const trophies = [
     howToGet: "Loop with Eclipsed",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1463,7 +1463,7 @@ const trophies = [
     howToGet: "Loop with all nine Golden items",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1472,7 +1472,7 @@ const trophies = [
     howToGet: "Detonate the H.A.R.O.",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1481,7 +1481,7 @@ const trophies = [
     howToGet: "Complete all Vertices of the Eleven-Pronged Seal",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1490,7 +1490,7 @@ const trophies = [
     howToGet: "Obtain the Calling Theme and the Player Pin",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1499,7 +1499,7 @@ const trophies = [
     howToGet: "Acquire The Touch",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1508,7 +1508,7 @@ const trophies = [
     howToGet: "Loop with Storm's Fury, Storm's Embrace, and Storm's Path",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1517,7 +1517,7 @@ const trophies = [
     howToGet: "Win the BillyCon Video Game Tournament",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1526,7 +1526,7 @@ const trophies = [
     howToGet: "Defeat FutureMiku, the final boss of Billy Idol",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1535,7 +1535,7 @@ const trophies = [
     howToGet: "Loop with The Glow",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1544,7 +1544,7 @@ const trophies = [
     howToGet: "Defeat The Bawg",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1553,7 +1553,7 @@ const trophies = [
     howToGet: "Complete the second Snooty Gallery Artwork",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1562,7 +1562,7 @@ const trophies = [
     howToGet: "Get the Pocketwatch working again",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1571,7 +1571,7 @@ const trophies = [
     howToGet: "Achieve a Rank of S against a WorldKaiju",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1580,7 +1580,7 @@ const trophies = [
     howToGet: "Level A Leven to 11",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1589,7 +1589,7 @@ const trophies = [
     howToGet: "Arrive in the AboveGround",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1598,7 +1598,7 @@ const trophies = [
     howToGet: "Defeat Triple H Lvl. 2 in a Mahjong Match",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1607,7 +1607,7 @@ const trophies = [
     howToGet: "Collect all six Bromides from Candyween",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1616,7 +1616,7 @@ const trophies = [
     howToGet: "Beat the final character battle in Flower Wars",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1625,7 +1625,7 @@ const trophies = [
     howToGet: "Defeated the Eleven Tails at The Festival",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1634,7 +1634,7 @@ const trophies = [
     howToGet: "Achieve Protagonist Rank",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1643,7 +1643,7 @@ const trophies = [
     howToGet: "Bank 3+ different Tiny Bee Weapons",
     points: 20,
     secret: true,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1652,7 +1652,7 @@ const trophies = [
     howToGet: "Drain The Eleven-Tailed Fox",
     points: 20,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1661,7 +1661,7 @@ const trophies = [
     howToGet: "Loop with all eight Lost Weapons",
     points: 40,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
   {
@@ -1670,7 +1670,7 @@ const trophies = [
     howToGet: "Gain the Fate or Destiny Bloodline",
     points: 60,
     secret: false,
-    image: "placeholder.jpg",
+    image: "images/trophy-icon.png",
     owned: false,
   },
 ];
